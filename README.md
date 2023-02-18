@@ -1,8 +1,5 @@
 # Story Adventure
-
-# Introduction
-- A interactive adventure game that allow for branching narratives, with choices made by the player influencing events throughout the game.
-- The purpose is to show skills in Python
+This is a simple text adventure game built in Python 3. It uses a CSV file to store the story and decision points, and allows the player to make choices and progress through the story.
 
 ## Installation
 - Python 3.10.2 
