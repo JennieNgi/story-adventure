@@ -1,3 +1,5 @@
+![adventureGame](https://user-images.githubusercontent.com/75710628/223285469-56c414c2-1181-4a5d-8dda-5ff954f99b20.png)
+
 # Story Adventure
 This is a simple text adventure game built in Python 3. It uses a CSV file to store the story and decision points, and allows the player to make choices and progress through the story.
 
